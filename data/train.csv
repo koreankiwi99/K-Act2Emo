@@ -1,4 +1,4 @@
-Head,Relation,Label
+Head,Rel,Tail
 목청을 가다듬는다,PosEnv,기대하다
 목청을 가다듬는다,PosEnv,긴장하다
 목청을 가다듬는다,NegEnv,긴장하다
