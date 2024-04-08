@@ -1,4 +1,4 @@
-Head,Relation,Label
+Head,Rel,Tail
 손을 들어 올려 Y를 가로막는다,PosEnv,흥분하다
 손을 들어 올려 Y를 가로막는다,NegEnv,분노하다
 머리카락으로 눈을 가린다,PosEnv,부끄럽다
