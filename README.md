@@ -1,6 +1,6 @@
 # K-Act2Emo: Korean CSKG for indirect emotional expressions
 
-This repository contains data and code associated with the paper [K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression] (https://arxiv.org/pdf/2403.14253.pdf)
+This repository contains data and code associated with the paper [K-Act2Emo: Korean Commonsense Knowledge Graph for Indirect Emotional Expression](https://arxiv.org/pdf/2403.14253.pdf).
 
 --------------------------------------------------------------
 
